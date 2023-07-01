@@ -61,7 +61,7 @@ user_specified_installation_path/bin/lts-analysis -a infileA -b infileB -o user_
 
 #### An example:
 
-Assuming we are at your working directory and we want to compare two microbial communities (i.e.,`infileA.txt` and `infileB.txt`), and store their community structure variation results (i.e., `infileA__infileB.spes`) to the subfolder of `outdir`, the commandline would be:
+Assuming we are at your working directory and we want to compare two microbial communities (i.e.,`infileA.txt` and `infileB.txt`), and store their community structure variation results (i.e., `infileA__infileB.spes`) to the subfolder of `outdir`, the command line would be:
 ```
 user_specified_installation_path/bin/lts-analysis -a ./infileA.txt -b ./infileB.txt -o ./outdir/;
 ```
