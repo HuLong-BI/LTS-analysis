@@ -11,19 +11,12 @@ We introduce a new analysis based on local topological similarity (LTS): some co
 
 1. 64-bit computer
 2. 1 GB disk space or higher
-3. 64 GB Mem or higher
-4. Linux (CentOS Linux release 7.4.1708)
-
-####	Required dependencies
-
-1. R (>=4.2.3)
-2. R packages "data.table","magrittr" and "optparse"
-3. Python (XXXX)
-4. XXXX
+3. 16 GB Mem or higher
+4. Linux (CentOS Linux release 7.4 or higher)
 
 ####	Installing
 
-1. Download the codes from [codes](https://github.com/HuLong-BI/LTS-analysis/tree/master/codes) and run the following command in shell:
+1. Download the codes from [releases](https://github.com/HuLong-BI/LTS-analysis/releases/tag/InstallationFilev1.0.0) and run the following command in shell:
 
 ```
 chmod a+x lts-1.0.0-Linux-x86_64.sh;
