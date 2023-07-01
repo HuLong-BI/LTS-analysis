@@ -1,0 +1,1846 @@
+Species	Reads
+HUGO_IC_seq	122
+Xanthomonas campestris	9274
+Cutibacterium acnes	9243
+Stenotrophomonas maltophilia	8268
+Escherichia coli	7381
+Brevundimonas naejangsanensis	7310
+Acinetobacter guillouiae	5901
+Agrobacterium tumefaciens	5153
+Pseudomonas aeruginosa	4777
+Enterococcus faecalis	4692
+Acinetobacter sp. MYb10	4254
+Acinetobacter johnsonii	3981
+Acinetobacter lwoffii	3028
+Delftia tsuruhatensis	2827
+Staphylococcus aureus	2801
+Bradyrhizobium sp. BTAi1	2558
+Listeria monocytogenes	2471
+Limosilactobacillus fermentum	2231
+Sphingomonas koreensis	1980
+Salmonella enterica	1894
+Staphylococcus hominis	1806
+Alcaligenes faecalis	1774
+Yarrowia lipolytica	1715
+Massilia sp. UMI-21	1585
+Ochrobactrum quorumnocens	1538
+Methylomonas clara	1506
+Cupriavidus basilensis	1447
+Rhodococcus sp. B7740	1433
+Rhodococcus sp. YL-1	1408
+Brevundimonas diminuta	1224
+Sphingomonas paucimobilis	1175
+Klebsiella michiganensis	1085
+Comamonas thiooxydans	1083
+Moraxella osloensis	1076
+Paraburkholderia tropica	1029
+Porphyrobacter sp. CACIAM 03H1	941
+Serratia marcescens	912
+Rhizobium oryzihabitans	858
+Achromobacter xylosoxidans	829
+Sphingobium hydrophobicum	823
+Pseudomonas protegens	801
+Stenotrophomonas rhizophila	792
+Sphingomonas melonis	770
+Rhodococcus fascians	733
+Microbacterium oxydans	720
+Methylobacterium sp. 17Sr1-43	619
+Porphyrobacter sp. YT40	607
+Microbacterium esteraromaticum	603
+Malassezia restricta	575
+Sphingomonas sp. AAP5	525
+Acinetobacter haemolyticus	465
+Deinococcus geothermalis	457
+Pseudomonas putida	453
+Rhodococcus qingshengii	433
+Pseudomonas balearica	428
+Klebsiella pneumoniae	419
+Rhodococcus erythropolis	391
+Cryptococcus neoformans	382
+Delftia acidovorans	372
+Serratia grimesii	348
+Rhodococcus sp. PBTS 2	347
+Paraburkholderia fungorum	345
+Herbaspirillum huttiense	340
+Rhodococcus sp. NJ-530	339
+Pseudomonas sp. C27(2019)	332
+Acinetobacter baumannii	331
+Methylobacterium brachiatum	330
+Agromyces aureus	330
+Pseudomonas stutzeri	328
+Massilia oculi	303
+Bradyrhizobium guangzhouense	303
+Porphyrobacter sp. LM 6	297
+Bacillus thermoamylovorans	293
+Sphingobium sp. YG1	292
+Sphingobacterium mizutaii	286
+Agromyces sp. LHK192	267
+Acinetobacter bereziniae	266
+Bradyrhizobium sp. CCBAU 53421	265
+Comamonas testosteroni	261
+Agromyces sp. MF30-A	254
+Sphingomonas sp. NIC1	253
+Acinetobacter junii	242
+Limnobacter sp. SAORIC-580	241
+Methylorubrum extorquens	235
+Porphyrobacter sp. HT-58-2	230
+Agromyces protaetiae	227
+Ochrobactrum anthropi	226
+Erythrobacter neustonensis	225
+Acidovorax sp. JMULE5	224
+Acinetobacter pittii	221
+Shinella sp. HZN7	221
+Methyloversatilis sp. RAC08	217
+Aquabacterium olei	213
+Kocuria palustris	212
+uncultured bacterium	212
+Acinetobacter sp. TTH0-4	210
+Brevundimonas vancanneytii	204
+Cloacibacterium normanense	202
+Methylorubrum populi	201
+Ralstonia pickettii	201
+Agromyces sp. KACC 19306	198
+Acinetobacter sp. NEB149	196
+Paracoccus sp. Arc7-R13	194
+Phyllobacterium zundukense	193
+Methylobacterium aquaticum	189
+Kocuria rosea	188
+Brevundimonas mediterranea	184
+Bosea sp. Tri-49	183
+Thermus scotoductus	180
+Methylophilus sp. TWE2	179
+Pseudomonas poae	178
+Acinetobacter schindleri	177
+Staphylococcus epidermidis	173
+Glutamicibacter mishrai	171
+Pseudomonas mendocina	160
+Sphingobacterium sp. PM2-P1-29	160
+Undibacterium sp. YM2	159
+Geobacillus genomosp. 3	158
+Sphingomonas sp. FARSPH	158
+Acinetobacter dispersus	157
+Sphingomonas alpina	156
+N/A	155
+Oscillatoria nigro-viridis	154
+Comamonas terrigena	153
+Hydrogenophaga sp. RAC07	150
+Ralstonia insidiosa	146
+Achromobacter spanius	144
+Pseudomonas oleovorans	144
+Saccharomyces cerevisiae	141
+Mycolicibacterium aurum	140
+Agromyces sp. HY052	138
+Microbacterium foliorum	137
+Rothia amarae	135
+Acinetobacter chinensis	132
+Providencia rettgeri	131
+Acinetobacter indicus	128
+Sphingopyxis macrogoltabida	125
+Mycobacterium sp. YC-RL4	121
+Brevundimonas sp. DS20	121
+Sphingomonas sp. LK11	119
+Comamonas aquatica	118
+Mycolicibacterium phocaicum	118
+Agromyces flavus	117
+Methylobacterium bullatum	117
+Bosea sp. RAC05	117
+Microbacterium hominis	117
+Tessaracoccus flavescens	115
+Microbacterium sp. TPU 3598	114
+Pseudomonas sp. phDV1	113
+Pseudomonas veronii	112
+Rhodococcus sp. BH4	111
+Microbacterium chocolatum	111
+Bradyrhizobium sp. CCBAU 53338	111
+Sphingobium yanoikuyae	110
+Micrococcus luteus	110
+Rubrobacter xylanophilus	109
+Deinococcus gobiensis	108
+Bradyrhizobium sp. CCBAU 53340	106
+Microbacterium sp. Y-01	105
+Mycolicibacterium frederiksbergense	104
+Cutibacterium granulosum	103
+Microbacterium sp. PM5	103
+Acinetobacter venetianus	102
+Schlegelella thermodepolymerans	102
+Cupriavidus metallidurans	102
+Microterricola viridarii	101
+Acidovorax sp. KKS102	101
+Meyerozyma guilliermondii	101
+Microbacterium sp. ABRD_28	101
+Acinetobacter sp. WCHA45	100
+Janthinobacterium sp. 1_2014MBL_MicDiv	100
+Brevundimonas sp. SGAir0440	100
+Acinetobacter sp. WCHAc010034	99
+Massilia sp. WG5	97
+Bradyrhizobium sp. SK17	96
+Brachybacterium ginsengisoli	96
+Enterobacter cloacae	95
+Chryseobacterium sp.	95
+Sphaerotilus natans	90
+Sphingobacterium daejeonense	89
+Kinneretia sp. DAIF2	89
+Deinococcus soli Cha et al. 2016	88
+Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17	87
+Cedecea neteri	86
+Bradyrhizobium sp. 6(2017)	86
+Clavibacter michiganensis	86
+Alicycliphilus denitrificans	85
+Leifsonia shinshuensis	85
+Sphingomonas panacis	83
+Elizabethkingia bruuniana	83
+Microbacteriaceae bacterium WY83	83
+Hydrogenophilus thermoluteolus	81
+Brevundimonas sp. GW460-12-10-14-LB2	80
+Chryseobacterium haifense	80
+Variovorax paradoxus	79
+Methylobacterium mesophilicum	78
+Achromobacter sp. AONIH1	78
+Streptococcus suis	78
+Novosphingobium pentaromativorans	78
+Pseudomonas azotoformans	78
+Paracoccus liaowanqingii	76
+Janibacter melonis	76
+Sphingomonas wittichii	74
+Caulobacter sp. FWC26	74
+Bosea sp. ANAM02	73
+Brevundimonas sp. M20	73
+Bacillus subtilis	72
+Pseudomonas rhodesiae	71
+Brachybacterium saurashtrense	71
+Planctomyces sp. SH-PL14	71
+Bradyrhizobium arachidis	71
+Corynebacterium segmentosum	70
+Staphylococcus haemolyticus	70
+Mycobacterium paragordonae	70
+Bradyrhizobium sp.	70
+Psychrobacter sp. DAB_AL43B	70
+Acinetobacter sp. WCHA55	69
+Microbacterium sp. No. 7	69
+Mitsuaria sp. 7	69
+Halomonas hydrothermalis	69
+Sphingomonas sp. PAMC26645	68
+Brachybacterium faecium	68
+Sphingopyxis sp. FD7	68
+Pseudomonas fluorescens	68
+uncultured Caudovirales phage	68
+Hydrogenophaga sp. BPS33	68
+Bradyrhizobium betae	67
+Sphingobium sp. RAC03	67
+Hydrogenophaga sp. PBC	67
+Acinetobacter wuhouensis	67
+Methylobacterium radiotolerans	66
+Paracoccus yeei	65
+Sphingomonas sp. LM7	65
+Solimonas sp. K1W22B-7	65
+Mesorhizobium terrae	65
+Brevundimonas vesicularis	64
+Empedobacter falsenii	64
+Hydrogenophaga sp. BA0156	63
+Lautropia mirabilis	63
+Brachybacterium vulturis	63
+Arthrobacter sp. NEB 688	61
+Serinicoccus profundi	61
+Rhodopseudomonas palustris	61
+Duganella sp. GN2-R2	61
+Janthinobacterium sp. LM6	60
+Pseudomonas alcaliphila	60
+Acinetobacter sp. YH12138	59
+Sphingobium amiense	59
+Acinetobacter soli	57
+Sphingomonas sp. CL5.1	57
+Rhizobium leguminosarum	57
+Bradyrhizobium erythrophlei	57
+Paucibacter sp. KCTC 42545	56
+Leifsonia xyli	56
+Leucobacter muris	56
+Pseudomonas palleroniana	56
+Acinetobacter sp. FDAARGOS_724	56
+Sphingomonas sp. Cra20	55
+Stenotrophomonas sp. LM091	54
+Psychrobacter arcticus	54
+Pseudonocardia sp. AL041005-10	54
+Sphingomonas hengshuiensis	54
+Bradyrhizobium genosp. B	54
+Erythrobacter sp.	53
+Ochrobactrum sp. MT180101	53
+Sphingomonas taxi	53
+Massilia putida	53
+Sinorhizobium sp. RAC02	52
+Paracoccus sp. AK26	52
+Thermus thermophilus	52
+Acidovorax sp. RAC01	52
+Ornithinimicrobium flavum	52
+Agrobacterium rhizogenes	52
+Methylobacterium sp. XJLW	52
+Acinetobacter radioresistens	52
+Haemophilus parainfluenzae	51
+Pseudomonas sp. SCB32	51
+Microbacterium sp. 4R-513	51
+Spirosoma rigui	51
+Acidovorax monticola	51
+Pseudomonas denitrificans (nom. rej.)	51
+Variovorax sp. PMC12	51
+Bradyrhizobium sp. ORS 285	50
+Flavobacterium johnsoniae	50
+Brevundimonas sp. MF30-B	50
+Janthinobacterium agaricidamnosum	50
+Nakamurella multipartita	49
+Xylophilus rhododendri	49
+Rhizobium sp. S41	49
+Blastomonas sp. RAC04	49
+Humibacter sp. WJ7-1	49
+Ralstonia solanacearum	48
+Acinetobacter seifertii	48
+Agrobacterium fabrum	48
+Paracoccus sanguinis	48
+Erythrobacter sp. HL-111	48
+Bradyrhizobium cosmicum	47
+Pseudomonas sediminis	47
+Asticcacaulis excentricus	47
+Sanguibacter sp. HDW7	47
+Hydrogenophaga sp. PBL-H3	47
+Dyella japonica	47
+Exophiala oligosperma	46
+Caulobacter vibrioides	46
+Bradyrhizobium diazoefficiens	46
+Microbacterium aurum	46
+Pseudomonas sp. TKP	46
+Pseudomonas sp. LPH1	46
+Microbacterium sp. CBA3102	46
+Lactobacillus crispatus	46
+Lactobacillus iners	45
+Agromyces mediolanus	45
+Brachybacterium sp. P6-10-X1	45
+Brucella pituitosa	45
+Sphingomonas sp. IC081	45
+Stenotrophomonas sp. ASS1	45
+Croceicoccus marinus	45
+Capnocytophaga gingivalis	44
+Xanthomonas citri	44
+Microvirgula aerodenitrificans	43
+Rothia terrae	43
+Methylobacterium durans	43
+Rhizorhabdus dicambivorans	43
+Polaromonas naphthalenivorans	42
+Phenylobacterium zucineum	42
+Sphingobium cloacae	42
+Psychrobacter cryohalolentis	42
+Haematobacter massiliensis	42
+Burkholderia pseudomallei	42
+Cryobacterium sp.	42
+Alternaria alternata	41
+Curtobacterium flaccumfaciens	41
+Luteitalea pratensis	41
+Tardiphaga robiniae	41
+Epidermidibacterium keratini	40
+Luteovulum sphaeroides	40
+Sphingomonas sanxanigenens	40
+Pseudomonas umsongensis	40
+Bradyrhizobium guangdongense	40
+Enterobacter hormaechei	40
+Cupriavidus pauculus	39
+Sphingomonas sp. XS-10	39
+Deinococcus grandis	39
+Janthinobacterium lividum	39
+Brevundimonas sp. 'scallop'	39
+Mycolicibacterium mucogenicum	39
+Acidovorax avenae	39
+Bradyrhizobium sp. CCGE-LA001	38
+Pseudomonas chlororaphis	38
+Lactococcus lactis	38
+Nocardioides ungokensis	38
+Rubrivivax gelatinosus	38
+Psychrobacter sp. P11G5	38
+Pseudomonas psychrotolerans	38
+Pseudomonas sp. ATCC 13867	38
+Burkholderia contaminans	38
+Novosphingobium sp. Gsoil 351	38
+Arcobacter cryaerophilus	37
+Sphingomonas insulae	37
+Corynebacterium glutamicum	37
+Methylobacterium sp. WL1	37
+Malassezia globosa	36
+Herbiconiux sp. SALV-R1	36
+Corynebacterium matruchotii	36
+Bosea sp. F3-2	36
+Botrytis cinerea	36
+Agrobacterium sp. T29	36
+Protaetiibacter intestinalis	35
+Acinetobacter gyllenbergii	35
+Altererythrobacter sp. BO-6	35
+Exiguobacterium sibiricum	35
+Janibacter indicus	35
+Ramlibacter tataouinensis	34
+Phreatobacter cathodiphilus	34
+Rheinheimera sp. D18	34
+Bradyrhizobium sp. CCBAU 51753	34
+Novosphingobium sp. ABRDHK2	34
+Pseudomonas sihuiensis	34
+Flintibacter sp. KGMB00164	34
+Deinococcus wulumuqiensis	34
+Dechloromonas sp.	34
+Pseudomonas koreensis	34
+Corynebacterium sanguinis	34
+Stappia indica	33
+Sphingomonas sp. MM-1	33
+Undibacterium sp. KW1	33
+Chryseobacterium sp. 6424	33
+Massilia sp. YMA4	33
+Burkholderiaceae bacterium	33
+Gordonia sp. YC-JH1	33
+Stenotrophomonas acidaminiphila	33
+Rheinheimera sp. LHK132	33
+Rhizobium phaseoli	33
+Caulobacter mirabilis	32
+Psychrobacter sp.	32
+Novosphingobium ginsenosidimutans	32
+Duganella sp. AF9R3	32
+Corynebacterium ureicelerivorans	32
+Leifsonia sp. 21MFCrub1.1	31
+Arthrobacter sp. PAMC 25486	31
+Burkholderia cenocepacia	31
+Acidovorax carolinensis	31
+Rhizobacter gummiphilus	31
+Altererythrobacter sp. TH136	31
+Rhizobium pusense	31
+Buchnera aphidicola	30
+Microbacterium wangchenii	30
+Microbacterium sp. 10M-3C3	30
+Rhodococcus sp. AQ5-07	30
+Pseudomonas sp. R76	30
+Novosphingobium sp. THN1	30
+Rhodococcus ruber	30
+Leucobacter triazinivorans	29
+Pseudoxanthomonas mexicana	29
+Mesorhizobium oceanicum	29
+Deinococcus actinosclerus	29
+Pandoraea apista	29
+Microbacterium oryzae	29
+Mycobacterium tuberculosis	29
+Tautonia plasticadhaerens	29
+Rhodococcus sp. 008	29
+Oerskovia sp. KBS0722	29
+Comamonas sp. NLF-7-7	29
+Ensifer adhaerens	28
+Bradyrhizobium paxllaeri	28
+Staphylococcus cohnii	28
+Gordonia terrae	28
+Sphingomonas lutea	28
+Hydrogenophaga crassostreae	28
+Leifsonia sp. PS1209	28
+Burkholderia lata	28
+Defluviicoccus vanus	28
+Mycobacterium sp. djl-10	28
+Microbacterium sp. 1S1	28
+Brucella pinnipedialis	28
+Acidovorax sp. 1608163	28
+Blastomonas fulva	28
+Aerococcus urinaeequi	28
+Enterococcus faecium	27
+Geobacillus sp. 44B	27
+Sphingomonas sp. C8-2	27
+Burkholderia sp. IDO3	27
+Brachybacterium sp. SGAir0954	27
+Herbaspirillum seropedicae	27
+Sanguibacter keddieii	27
+Methylobacterium currus	26
+Enterobacter asburiae	26
+Sphingomonas panacisoli	26
+Martelella sp. AD-3	26
+Achromobacter sp. MFA1 R4	26
+Bordetella pertussis	26
+Pulveribacter suum	26
+Sulfurivermis fontis	26
+Salinibacterium sp. ZJ70	26
+Rhodoblastus sp.	26
+Achromobacter denitrificans	26
+Phenylobacterium parvum	26
+Sphingosinithalassobacter sp. zrk23	26
+Bosea sp. AS-1	26
+Microbacterium sp. XT11	26
+Ochrobactrum pseudogrignonense	25
+Caulobacter rhizosphaerae	25
+Bradyrhizobium vignae	25
+Massilia albidiflava	25
+Gemmata massiliana	25
+Zhihengliuella sp. ISTPL4	25
+Janthinobacterium sp. HH102	25
+Bradyrhizobium oligotrophicum	25
+Neisseria elongata	25
+Methylobacterium nodulans	25
+Propioniciclava sp. HDW11	25
+Brachybacterium avium	25
+Inhella inkyongensis	25
+Agrobacterium sp. CGMCC 11546	25
+Pseudomonas sp. B11D7D	25
+Lysobacter enzymogenes	25
+Sphingopyxis granuli	25
+Glutamicibacter nicotianae	25
+Jiangella alkaliphila	25
+Melaminivora sp. SC2-9	24
+Pseudomonas lalkuanensis	24
+Mariniflexile sp. TRM1-10	24
+Devosia sp. I507	24
+Massilia armeniaca	24
+Staphylococcus simulans	24
+Erythrobacter litoralis	24
+Parageobacillus thermoglucosidasius	24
+Sinorhizobium meliloti	24
+Epilithonimonas vandammei	24
+Achromobacter insolitus	23
+Sphingopyxis fribergensis	23
+Pandoraea fibrosis	23
+Acinetobacter ursingii	23
+Rhodoferax sediminis	23
+Corynebacterium variabile	23
+Thiobacillus sp.	23
+Erwinia persicina	23
+Erythrobacter sp. HKB08	23
+Achromobacter pestifer	23
+Marisediminicola antarctica	23
+Leptothrix cholodnii	23
+Cellulomonas fimi	23
+Brevundimonas subvibrioides	23
+Agrococcus carbonis	23
+Kytococcus sedentarius	23
+Delftia sp. Cs1-4	23
+Massilia violaceinigra	23
+Qipengyuania sediminis	23
+Janthinobacterium tructae	23
+Janthinobacterium svalbardensis	23
+Agrococcus jejuensis	23
+Caulobacter segnis	22
+Cupriavidus gilardii	22
+Bradyrhizobium sp. CCBAU 53351	22
+Thermus caldilimi	22
+Paraburkholderia sp. 7MH5	22
+Caulobacter sp. K31	22
+Thauera sp. K11	22
+Acidovorax sp. JS42	22
+Psychrobacter sp. KCTC 72983	22
+Streptococcus mitis	22
+Microbacterium sp. BH-3-3-3	22
+Roseomonas mucosa	22
+Caulobacter sp. Ji-3-8	22
+Variovorax sp. PAMC 28711	22
+Acinetobacter cumulans	22
+Dietzia lutea	21
+Bradyrhizobium sp. 1(2017)	21
+Tsuneonella dongtanensis	21
+Azoarcus olearius	21
+Caulobacter flavus	21
+Pseudomonas sp. PONIH3	21
+Hydrogenobacter sp. T-8	21
+Rhodoferax saidenbachensis	21
+Rhizobium daejeonense	21
+Deinococcus metallilatus	21
+Rhodoferax koreense	21
+Sulfuritortus calidifontis	21
+Wickerhamomyces anomalus	21
+Mycolicibacterium boenickei	21
+Oblitimonas alkaliphila	21
+Paracoccus zhejiangensis	21
+Xanthomonas oryzae	21
+Saccharopolyspora erythraea	20
+Thermomonas brevis	20
+Paraburkholderia acidisoli	20
+Altererythrobacter sp. B11	20
+Brevundimonas sp. Bb-A	20
+Devosia ginsengisoli	20
+Clostridium thermarum	20
+Limosilactobacillus reuteri	20
+Chryseobacterium taihuense	20
+Parvibaculum lavamentivorans	20
+Vitreoscilla filiformis	20
+Algibacter alginicilyticus	20
+Methanosarcina barkeri	20
+Sphingorhabdus lacus	20
+Pseudomonas moraviensis	20
+Lactococcus raffinolactis	20
+Pseudomonas fulva	20
+Xanthobacter autotrophicus	20
+Diaphorobacter sp. HDW4B	20
+[Polyangium] brachysporum	20
+Bradyrhizobium amphicarpaeae	20
+Sphingopyxis terrae	20
+Microbacterium sp. PAMC 28756	20
+Variovorax sp. WDL1	20
+Rhizobium tropici	20
+Burkholderia stabilis	20
+Brevibacterium linens	20
+Microbacterium sp. RG1	20
+Sphingomonas sp. KC8	19
+Pandoraea norimbergensis	19
+Rhizobium lusitanum	19
+Paracoccus suum	19
+Massilia sp. NR 4-1	19
+Rothia aeria	19
+Raoultella ornithinolytica	19
+Rheinheimera sp. F8	19
+Streptomyces sp. AgN23	19
+Bradyrhizobium guangxiense	19
+Pimelobacter simplex	19
+Methylobacterium phyllosphaerae	19
+Roseateles depolymerans	19
+Microbacterium pygmaeum	19
+Pseudomonas libanensis	19
+Brevundimonas sp. LM2	19
+Noviherbaspirillum sp. UKPF54	19
+Oligotropha carboxidovorans	18
+Cytophaga hutchinsonii	18
+Flavobacterium indicum	18
+Thermus parvatiensis	18
+Pseudomonas yamanorum	18
+Staphylococcus phage StB12	18
+Chroococcidiopsis thermalis	18
+Methylobacterium sp. AMS5	18
+Sphingobium baderi	18
+Sphingomonas ginsengisoli An et al. 2013	18
+Rathayibacter sp. VKM Ac-2801	18
+Microbacterium hydrocarbonoxydans	18
+Chelativorans sp. BNC1	18
+Human betaherpesvirus 5	18
+Rathayibacter festucae	18
+Tessaracoccus flavus	18
+Ottowia oryzae	18
+Diaphorobacter polyhydroxybutyrativorans	18
+Cupriavidus necator	18
+Sphingopyxis sp. OPL5	18
+Acinetobacter sp. ACNIH1	18
+Aminobacter sp. MSH1	18
+Erythrobacter aureus	18
+Sphingobium sp. TKS	17
+Bordetella bronchialis	17
+Diaphorobacter aerolatus	17
+Cryobacterium arcticum	17
+Novosphingobium resinovorum	17
+Actinoalloteichus hymeniacidonis	17
+Pseudomonas plecoglossicida	17
+Sphingomonas sp. MJ3	17
+Corynebacterium singulare	17
+Deinococcus sp. NW-56	17
+Bordetella genomosp. 13	17
+Ligilactobacillus salivarius	17
+Mycolicibacterium psychrotolerans	17
+uncultured Sphingopyxis sp.	17
+Mycobacteroides chelonae	17
+Novosphingobium aromaticivorans	17
+Sphingobium sp. SCG-1	17
+Diaphorobacter sp. JS3050	17
+Mycolicibacterium fluoranthenivorans	17
+Sphingopyxis sp. QXT-31	17
+Mycobacterium avium	16
+Arthrobacter sp. LS16	16
+[Clostridium] scindens	16
+Halomonas socia	16
+Pseudomonas sp. FDAARGOS_380	16
+Cellulosimicrobium cellulans	16
+Rhodococcus opacus	16
+Aeromicrobium choanae	16
+Acinetobacter equi	16
+Croceicoccus naphthovorans	16
+Ornithinimicrobium sp. HY006	16
+Desulfovibrio piger	16
+Arthrobacter sp. 7749	16
+Mesorhizobium sp. M7A.F.Ce.TU.012.03.2.1	16
+Sphingobium sp. RSMS	16
+Mesorhizobium sp. DCY119	16
+Cellulomonas sp. PSBB021	16
+Bosea vaviloviae	16
+Sphingopyxis sp. PAMC25046	16
+Rhizobium sp. 11515TR	16
+Chryseobacterium taklimakanense	16
+Hylemonella gracilis	15
+Pseudomonas sp. CMR5c	15
+Oceanisphaera profunda	15
+Flavobacteriaceae bacterium 3519-10	15
+Bosea sp. PAMC 26642	15
+Bradyrhizobium symbiodeficiens	15
+Aromatoleum aromaticum	15
+Microbacterium lushaniae	15
+Chromatiaceae bacterium No.7	15
+Baekduia soli	15
+Bacteroides cellulosilyticus	15
+Kocuria rhizophila	15
+Sphingomonas sp. MK52	15
+Luteimonas yindakuii	15
+Acinetobacter sp. LoGeW2-3	15
+Nocardioides euryhalodurans	15
+Hyphomicrobium nitrativorans	15
+Sphingobacterium sp. dk4302	15
+Auritidibacter sp. NML130574	15
+Byssochlamys spectabilis	15
+Lachnoclostridium phytofermentans	15
+Corynebacterium imitans	15
+Chryseobacterium shandongense	15
+Nocardia brasiliensis	15
+Sphingobium sp. EP60837	15
+Metabacillus litoralis	15
+Massilia lutea	15
+Bradyrhizobium sp. CCBAU 051011	15
+Sphingopyxis alaskensis	15
+Elizabethkingia anophelis	15
+Mycolicibacterium arabiense	15
+Methylobacterium oryzae	15
+Sphingopyxis sp. EG6	15
+Pseudomonas citronellolis	15
+Pseudomonas sp. 02C 26	15
+Sphingomonas indica	15
+Flavobacterium crocinum	15
+Murine leukemia virus	15
+Pantoea sp. PSNIH1	15
+Pseudomonas alcaligenes	15
+Sphingosinicella sp. BN140058	15
+Pseudomonas virus nickie	15
+Fusarium fujikuroi	14
+Methylibium petroleiphilum	14
+Zasmidium cellare	14
+Aeromonas salmonicida	14
+Microbacterium sediminis	14
+Corynebacterium resistens	14
+Diaphorobacter sp. HDW4A	14
+Dermacoccus abyssi	14
+Exiguobacterium mexicanum	14
+Luteimonas sp. JM171	14
+Acinetobacter nosocomialis	14
+Luteibacter pinisoli	14
+Pantoea ananatis	14
+Agrobacterium vitis	14
+Pseudomonas monteilii	14
+Variovorax boronicumulans	14
+Ottowia sp. oral taxon 894	14
+Hydrogenophaga pseudoflava	14
+Microbacterium sp. LKL04	14
+Seonamhaeicola sp. S2-3	14
+Cordyceps militaris	14
+Delftia sp. HK171	14
+Streptomyces seoulensis	14
+Sphingobium barthaii	14
+Bradyrhizobium genosp. L	14
+Methylibium sp. Pch-M	14
+Thauera sp. MZ1T	14
+Wolinella succinogenes	14
+Acinetobacter wanghuae	14
+Nitrospira defluvii	14
+Mesorhizobium sp. M8A.F.Ca.ET.057.01.1.1	14
+Pseudomonas multiresinivorans	14
+Pandoraea sp. XY-2	14
+Hydrogenophaga sp. PAMC20947	14
+Pseudomonas sabulinigri	13
+Skermanella pratensis	13
+Trichoderma citrinoviride	13
+Marinobacter sp. JH2	13
+Arthrobacter sp. ERGS1:01	13
+Fusarium vanettenii	13
+Lysobacter lycopersici	13
+Flavobacterium crassostreae	13
+Nocardioides sp. JQ2195	13
+Psychrobacter sp. YP14	13
+Nocardia mangyaensis	13
+Gryllotalpicola protaetiae	13
+Jiangella sp. DSM 45060	13
+Phycicoccus endophyticus	13
+Microbacterium caowuchunii	13
+Rhizobium sp. Q54	13
+Dokdonella koreensis	13
+Finegoldia magna	13
+Frondihabitans sp. 762G35	13
+Pseudomonas sp. URMO17WK12:I11	13
+Paraburkholderia phytofirmans	13
+Rhizobium flavum	13
+Epichloe festucae	13
+Saccharopolyspora coralli	13
+Labilithrix luteola	13
+Microbacterium paludicola	13
+Plantibacter sp. PA-3-X8	13
+Anaerobutyricum hallii	13
+Aspergillus campestris	13
+Pseudoxanthomonas spadix	13
+Xanthomonas sacchari	13
+Diaminobutyricimonas sp. LJ205	13
+Prevotella intermedia	13
+Nocardioides sp. WS12	13
+Herbaspirillum rubrisubalbicans	13
+Pseudomonas marincola	13
+Metarhizium acridum	13
+Dermacoccus nishinomiyaensis	13
+Aeromicrobium erythreum	13
+Moesziomyces antarcticus	13
+Acinetobacter sp. NCu2D-2	13
+Pseudomonas antarctica	12
+Pigmentiphaga sp. H8	12
+Rathayibacter iranicus	12
+Leuconostoc citreum	12
+Petrimonas sp. IBARAKI	12
+Comamonas piscis	12
+Cladophialophora yegresii	12
+Hyphomonas sp. CACIAM 19H1	12
+Rhizobium sp. NXC24	12
+Thermus brockianus	12
+Brevibacterium luteolum	12
+Halobacterium hubeiense	12
+Psychrobacter sanguinis	12
+Paraburkholderia acidiphila	12
+Herbaspirillum hiltneri	12
+Nitrospira moscoviensis	12
+Candidatus Saccharibacteria bacterium oral taxon 957	12
+Variovorax sp. HW608	12
+Flavobacterium columnare	12
+Clostridiales bacterium CCNA10	12
+Acinetobacter sp. TGL-Y2	12
+Sphingosinicella microcystinivorans	12
+Denitratisoma oestradiolicum	12
+Sphingobium sp. CAP-1	12
+Methylobacterium sp. DM1	12
+Acidovorax sp. T1	12
+Corynebacterium sp. 2039	12
+Lactobacillus delbrueckii	12
+Nitrobacter winogradskyi	12
+Nocardioides sp. HDW12A	12
+Neisseria mucosa	12
+Colwellia sp. PAMC 21821	12
+Thermomonas sp. SY21	12
+Nocardioides marinisabuli	12
+Microbacterium schleiferi	12
+Acetoanaerobium sticklandii	11
+Sphingomonas sp. C33	11
+Flavobacterium sp. KBS0721	11
+Azoarcus sp. KH32C	11
+Kaistella daneshvariae	11
+Geosmithia morbida	11
+Mesorhizobium sp. M6A.T.Cr.TU.016.01.1.1	11
+Aureimonas altamirensis	11
+Sphingorhabdus sp. M41	11
+Rhodococcus sp. P1Y	11
+Thermomonas sp. HDW16	11
+Nocardioides seonyuensis	11
+Rhizobium jaguaris	11
+Streptomyces globisporus	11
+Streptomyces sp. SM18	11
+Bradyrhizobium sp. ORS 278	11
+Acinetobacter sp. 8637	11
+Xanthomonas cucurbitae	11
+Friedmanniella luteola	11
+Tessaracoccus defluvii	11
+Weissella confusa	11
+Arthrobacter sp. YN	11
+Pseudomonas sp. SK	11
+Thioalkalivibrio sulfidiphilus	11
+Rhodococcus phage ChewyVIII	11
+Pantoea alhagi	11
+Limosilactobacillus pontis	11
+Psychrobacter sp. G	11
+Dietzia sp. oral taxon 368	11
+Roseomonas gilardii	11
+butyrate-producing bacterium SM4/1	11
+Sphingobium sp. KCTC 72723	11
+Pandoraea pnomenusa	11
+Gordonia polyisoprenivorans	11
+Bradyrhizobium sp. SG09	11
+Mycobacterium marseillense	11
+Bacillus amyloliquefaciens	11
+Micrococcus sp. KBS0714	11
+Sphingomonas sp. AP4-R1	11
+Pseudonocardia sp. HH130630-07	11
+Agrobacterium phage Atu_ph08	11
+Pseudomonas simiae	11
+Streptomyces galilaeus	11
+Escherichia fergusonii	11
+Massilia umbonata	11
+Dissoconium aciculare	11
+Pseudomonas sp. SNU WT1	11
+Rhodococcus phage Whack	11
+Acinetobacter sp. SWBY1	10
+Marinobacter hydrocarbonoclasticus	10
+Rothia mucilaginosa	10
+Niastella koreensis	10
+Salinibacterium sp. ZJ450	10
+Actinomyces sp. oral taxon 169	10
+Flavihumibacter sp. SB-02	10
+Deinococcus irradiatisoli	10
+Azospirillum lipoferum	10
+TM7 phylum sp. oral taxon 952	10
+Pseudoalteromonas aliena	10
+Anoxybacillus gonensis	10
+Tsukamurella paurometabola	10
+Nocardioides anomalus	10
+Plantactinospora sp. KBS50	10
+Miniimonas sp. S16	10
+Devosia sp. A16	10
+Chryseobacterium antarcticum	10
+Hoeflea sp. IMCC20628	10
+Aplosporella prunicola	10
+Pedobacter cryoconitis	10
+Altererythrobacter atlanticus	10
+Isoptericola dokdonensis	10
+uncultured bacterium FC1	10
+Blastochloris tepida	10
+Purpureocillium lilacinum	10
+Mycolicibacterium sp. CBMA 213	10
+Microbulbifer sp. ALW1	10
+Pseudonocardia autotrophica	10
+Labrenzia sp. THAF35	10
+Chryseobacterium camelliae	10
+Lacunisphaera limnophila	10
+Flavobacterium lindanitolerans	10
+Runella slithyformis	10
+Vibrio sp.	10
+Thalassolituus oleivorans	10
+Sphingopyxis sp. 113P3	10
+Pantoea agglomerans	10
+Klebsiella grimontii	10
+Thermoanaerobacterium thermosaccharolyticum	10
+Sphingobacterium hotanense	10
+Staphylococcus caprae	10
+Bradyrhizobium japonicum	10
+Rhodococcus sp. H-CA8f	10
+Luteimonas chenhongjianii	10
+Indioceanicola profundi	10
+Geobacillus sp. E263	10
+Sphingobium sp. SYK-6	10
+Niabella soli	10
+Arthrobacter sp. JBH1	10
+Chryseobacterium sp. NBC 122	10
+Janthinobacterium sp. 17J80-10	10
+Rhodococcus sp. PBTS 1	10
+Enterobacteriaceae bacterium ENNIH1	10
+Mesorhizobium sp. 8	10
+Flavonifractor plautii	10
+Mesorhizobium opportunistum	10
+Streptomyces fodineus	10
+Acinetobacter piscicola	10
+Paraburkholderia caffeinilytica	10
+Pseudomonas kribbensis	10
+Sphingomonas echinoides	10
+Brucella sp. 09RB8910	10
+Caulobacter henricii	10
+Confluentimicrobium sp. EMB200-NS6	10
+Streptococcus gallolyticus	9
+Burkholderia gladioli	9
+Microcella alkaliphila	9
+Mycolicibacterium aubagnense	9
+Lachnospiraceae bacterium Choco86	9
+Novosphingobium sp. P6W	9
+Neorhizobium sp. SOG26	9
+Corynebacterium urealyticum	9
+Variovorax sp. RA8	9
+Flavobacterium sp. xlx-214	9
+Rhodoferax ferrireducens	9
+Neisseria sicca	9
+Schaalia odontolytica	9
+Methylocystis parvus	9
+Neisseria subflava	9
+Mesorhizobium sp. N3	9
+Arthrobacter saudimassiliensis	9
+Rothia dentocariosa	9
+Aerosticca soli	9
+Beauveria bassiana	9
+Microbacterium oleivorans	9
+Tatlockia micdadei	9
+Neomicrococcus aestuarii	9
+Arthrobacter sp. ZXY-2	9
+Auraticoccus monumenti	9
+Rhodoferax antarcticus	9
+Beutenbergia cavernae	9
+Chryseobacterium sp. NEB161	9
+Verticillium nonalfalfae	9
+Chlorobium phaeovibrioides	9
+Marmoricola scoriae	9
+Streptomyces sp. CC0208	9
+Niveispirillum cyanobacteriorum	9
+Sinorhizobium sp. M14	9
+Azoarcus sp. DD4	9
+Paraoceanicella profunda	9
+Novosphingobium sp. PP1Y	9
+Bacteroides graminisolvens	9
+Aerococcus viridans	9
+Actinomyces sp. oral taxon 414	9
+Cellvibrio sp. KY-YJ-3	9
+Wenyingzhuangia fucanilytica	9
+Chryseobacterium joostei	9
+Changchengzhania lutea	9
+Conexibacter woesei	9
+Burkholderia sp. BDU8	9
+Undibacterium piscinae	9
+Levilactobacillus brevis	9
+Propionibacterium australiense	9
+Psychrobacter sp. 13A	9
+Bordetella hinzii	9
+Podosphaera xanthii	9
+Dietzia timorensis	9
+Serpentinomonas mccroryi	9
+Citrobacter freundii	9
+Lysinimonas sp. KACC 19322	9
+Pantoea sp. At-9b	9
+Polaribacter reichenbachii	9
+Capnocytophaga stomatis	9
+Pantoea dispersa	9
+Mycolicibacterium gadium	9
+Azoarcus communis	9
+Flammeovirga sp. MY04	9
+Microbacterium phage Lynlen	9
+Hyphomicrobium sp. ghe19	9
+Chryseobacterium sp. JV274	9
+Clostridium sp. SY8519	9
+Hankyongella ginsenosidimutans	9
+Lysobacter antibioticus	9
+Novosphingobium sp. KA1	9
+Hymenobacter sp. BRD128	9
+Sphingomonas sp. LMO-1	9
+Ancylobacter pratisalsi	9
+Klebsiella variicola	9
+Bordetella bronchiseptica	9
+Candida sojae	9
+Acinetobacter calcoaceticus	8
+Aeromonas veronii	8
+Rhodococcus sp. WAY2	8
+Paraburkholderia aromaticivorans	8
+Pyricularia grisea	8
+Aquabacterium sp. PL1F5	8
+Herminiimonas arsenitoxidans	8
+Phocaeicola dorei	8
+Minicystis rosea	8
+Flavobacterium faecale	8
+Sulfitobacter sp. SK025	8
+Pseudomonas orientalis	8
+Pseudomonas viridiflava	8
+Brevibacterium aurantiacum	8
+Bordetella flabilis	8
+Paraburkholderia sprentiae	8
+Cellvibrio sp. KY-GH-1	8
+Dietzia psychralcaliphila	8
+Streptomyces dengpaensis	8
+Acidibrevibacterium fodinaquatile	8
+Methylocystis bryophila	8
+Cnuibacter physcomitrellae	8
+Geobacillus sp. LC300	8
+Spirosoma aerolatum	8
+Halomonas sp. PGE1	8
+Micromonospora echinofusca	8
+Clostridioides difficile	8
+Cupriavidus campinensis	8
+Massilistercora timonensis	8
+Salinibacterium sp. UTAS2018	8
+Cellulosimicrobium sp. BI34T	8
+Candida parapsilosis	8
+Paracoccus pantotrophus	8
+Ochrobactrum rhizosphaerae	8
+Methylobacterium sp. 17Sr1-1	8
+Prosthecochloris sp. HL-130-GSB	8
+Sphingobium sp. PAMC28499	8
+Nonomuraea sp. ATCC 55076	8
+Acidovorax citrulli	8
+Mycobacterium noviomagense	8
+Luteimicrobium xylanilyticum	8
+Flavisolibacter tropicus	8
+Sphingobium phenoxybenzoativorans	8
+Chelatococcus daeguensis	8
+Brevibacterium sp. YB235	8
+Microbacterium sp. str. 'China'	8
+Pseudomonas sp. BIGb0427	8
+Pseudomonas sp. THAF7b	8
+Bacillus sp. NSP2.1	8
+Cupriavidus sp. USMAA2-4	8
+Gordonia iterans	8
+Lactobacillus acetotolerans	8
+Halobiforma lacisalsi	8
+Pedobacter steynii	8
+Agrococcus sp. SGAir0287	8
+Streptococcus sp. A12	8
+Xanthomonas perforans	8
+Ornithinimicrobium sp. AMA3305	8
+Porphyromonas gingivalis	8
+Hymenobacter sp. DG01	8
+Proteus mirabilis	8
+Geobacillus sp. WCH70	8
+Yersinia frederiksenii	8
+Paraurantiacibacter namhicola	8
+Micavibrio aeruginosavorus	8
+Paraoerskovia marina	8
+Kocuria turfanensis	8
+Rhodococcus sp. X156	8
+Chromobacterium paludis	8
+Pseudomonas sp. M30-35	8
+Aureobasidium namibiae	8
+Fusarium coffeatum	8
+Kineococcus radiotolerans	8
+Candidatus Accumulibacter sp.	8
+Sinorhizobium americanum	7
+Flaviflexus sp. H23T48	7
+Paraburkholderia caledonica	7
+Diaphorobacter ruginosibacter	7
+Marinobacter sp. Arc7-DN-1	7
+Pelagerythrobacter marensis	7
+Silicimonas algicola	7
+Cutibacterium avidum	7
+Isoptericola variabilis	7
+Prevotella enoeca	7
+Pseudomonas synxantha	7
+Halomonas sp. BC-M4-5	7
+Xanthomonas translucens	7
+Rhodoplanes sp. Z2-YC6860	7
+Actinomyces lilanjuaniae	7
+Pestalotiopsis fici	7
+Rhizobium sp. ACO-34A	7
+Lelliottia amnigena	7
+Cryobacterium soli	7
+Streptomyces scabiei	7
+Pandoraea pulmonicola	7
+Hymenobacter russus	7
+Agrobacterium sp. 33MFTa1.1	7
+Thauera chlorobenzoica	7
+Staphylococcus phage StB27	7
+Oryzomicrobium terrae	7
+Erythrobacter sp. KY5	7
+Lawsonella clevelandensis	7
+Sphingomonas sp. MJ-3	7
+Bordetella sp. H567	7
+Rhodococcus sp. SGAir0479	7
+Halomonas titanicae	7
+Cellvibrio sp. PSBB023	7
+Chryseobacterium indoltheticum	7
+Gammaproteobacteria bacterium	7
+Dyella jiangningensis	7
+Streptococcus sanguinis	7
+Chryseobacterium glaciei	7
+Plantibacter flavus	7
+Blastococcus saxobsidens	7
+Parasphingopyxis algicola	7
+Rahnella aquatilis	7
+Arthrobacter sp. 24S4-2	7
+Haloactinobacterium sp. HY164	7
+Streptococcus australis	7
+Rathayibacter sp. VKM Ac-2759	7
+Nocardia sp. CS682	7
+Aureimonas sp. AU20	7
+Pandoraea vervacti	7
+Erwinia pyrifoliae	7
+Bradyrhizobium icense	7
+Bacillus thuringiensis	7
+Citromicrobium sp. JL477	7
+Simplicispira suum	7
+Hymenobacter swuensis	7
+Flavobacterium sp. LPB0248	7
+Aurantiacibacter atlanticus	7
+Pasteurella multocida	7
+Mesorhizobium huakuii	7
+Sarocladium implicatum	7
+Rhodococcus triatomae	7
+Tardibacter chloracetimidivorans	7
+Nocardioides sp. zg-579	7
+Pseudomonas nitroreducens	7
+Candidatus Saccharibacteria bacterium RAAC3_TM7_1	7
+Paludibacter propionicigenes	7
+Paraburkholderia atlantica	7
+Guyparkeria halophila	7
+Comamonas koreensis	7
+Microbacterium luteolum	7
+Dechloromonas aromatica	7
+Mycolicibacterium neoaurum	7
+Bacteroides heparinolyticus	7
+Rhizobium selenitireducens	7
+Brevibacterium sp. CS2	7
+Calycomorphotria hydatis	7
+Flavobacterium sp. Sr18	7
+Acidithiobacillus ferrivorans	7
+Psychrobacter sp. DAB_AL32B	7
+Xanthomonas vesicatoria	7
+Luteimonas granuli	7
+Curtobacterium pusillum	7
+Aquisphaera giovannonii	7
+Crinalium epipsammum	7
+Methylobacterium sp. C1	7
+Staphylococcus capitis	7
+Pseudomonas sp. UW4	7
+Verminephrobacter eiseniae	7
+Sphingobacterium sp. G1-14	7
+Microbacterium lemovicicum	7
+Bradyrhizobium sp. CCBAU 51765	7
+Corynebacterium striatum	7
+Dyella thiooxydans	7
+Thermomonospora amylolytica	7
+Flavobacterium sp. 140616W15	7
+Pandoraea oxalativorans	7
+Comamonas serinivorans	7
+Truepera radiovictrix	6
+Sphingopyxis sp. MG	6
+Adlercreutzia equolifaciens	6
+Aspergillus heteromorphus	6
+Pseudomonas sp. LBUM920	6
+Fibrella aestuarina	6
+Saccharomyces pastorianus	6
+Acinetobacter defluvii	6
+Azoarcus sp. M9-3-2	6
+Sphaerotilus phage vB_SnaP-R1	6
+Aspergillus fumigatus	6
+Streptomyces koyangensis	6
+Agrobacterium sp. MA01	6
+Sphingobacterium sp. ML3W	6
+Tannerella sp. oral taxon HOT-286	6
+Burkholderia sp. LA-2-3-30-S1-D2	6
+Maribacter sp. T28	6
+Phreatobacter stygius	6
+Phaeobacter inhibens	6
+Acinetobacter shaoyimingii	6
+Flavobacterium sp. ICM 1082	6
+Marinobacterium aestuarii	6
+Sinorhizobium fredii	6
+Streptomyces sp. 769	6
+Burkholderia glumae	6
+Pseudomonas sp. S1-A32-2	6
+Kocuria varians	6
+Chryseobacterium indologenes	6
+Pseudomonas syringae pv. actinidiae	6
+Brevundimonas bullata	6
+Pseudomonas parafulva	6
+Xylanimonas cellulosilytica	6
+Mycetocola sp. JXN-3	6
+Azospirillum sp. TSA2s	6
+Spiroplasma taiwanense	6
+Micromonospora craniellae	6
+Achromobacter ruhlandii	6
+Pedobacter suwonensis	6
+Bacteroides fragilis	6
+Acinetobacter towneri	6
+Humibacter sp. BT305	6
+Starkeya sp. ORNL1	6
+Acinetobacter sp. FDAARGOS_493	6
+Flavobacterium sp. M31R6	6
+Paenibacillus sp. UniB2	6
+Curvibacter putative symbiont of Hydra magnipapillata	6
+Thermaerobacter marianensis	6
+Methylocystis sp. SC2	6
+Salinicoccus halodurans	6
+Cercospora sojina	6
+Microbacterium sp. HY82	6
+Planococcus plakortidis	6
+Streptomyces aquilus	6
+Nocardioides dokdonensis	6
+Phycicoccus sp. HDW14	6
+Erythrobacter mangrovi	6
+Halalkalicoccus jeotgali	6
+Sphingorhabdus sp. YGSMI21	6
+Mycobacterium sp. JS623	6
+Pseudarthrobacter equi	6
+Bacteroides uniformis	6
+Methylophilus methylotrophus	6
+Granulibacter bethesdensis	6
+Pseudomonas psychrophila	6
+Shewanella sp. Arc9-LZ	6
+Aurantiacibacter gangjinensis	6
+Rhodobacter sp. LPB0142	6
+Actinopolymorpha singaporensis	6
+Leptotrichia buccalis	6
+Psychrobacter sp. PRwf-1	6
+Herbaspirillum robiniae	6
+Staphylococcus lugdunensis	6
+Microvirga thermotolerans	6
+Micromonospora zamorensis	6
+Hartmannibacter diazotrophicus	6
+Peptoniphilus harei	6
+Microbacterium protaetiae	6
+Serratia plymuthica	6
+Pseudomonas oryzihabitans	6
+Fusarium oxysporum	6
+Streptococcus cristatus	6
+Salinicola tamaricis	6
+Actinomadura verrucosospora	6
+Enterocloster bolteae	6
+Parageobacillus toebii	6
+Staphylococcus warneri	6
+Saccharothrix syringae	6
+Massilia flava	6
+Citricoccus sp. SGAir0253	6
+Streptococcus equinus	6
+Microbacterium testaceum	6
+Vogesella sp. LIG4	6
+Paracoccus aminophilus	6
+Neorhizobium sp. NCHU2750	6
+Devosia sp. 1566	6
+Pseudomonas lurida	6
+Devosia sp. H5989	6
+Hydrogenophaga sp. PL2G6	6
+Magnetospirillum magneticum	6
+Sulfitobacter pseudonitzschiae	6
+Leucobacter sp. HDW9B	6
+Neurospora crassa	6
+Janthinobacterium sp. Marseille	6
+Fusarium subglutinans	6
+Flavobacterium nackdongense	6
+Hymenobacter sp. PAMC 26554	6
+Burkholderia sp. THE68	6
+Aeromonas media	6
+Cyanobium sp. NS01	6
+Runella sp. HYN0085	6
+Talaromyces stipitatus	6
+Candidatus Amoebophilus asiaticus	6
+Curtobacterium sp. 9128	6
+Chryseobacterium carnipullorum	6
+Betaproteobacteria bacterium GR16-43	6
+Xylanimonas allomyrinae	5
+Bordetella genomosp. 9	5
+Burkholderia vietnamiensis	5
+Mesorhizobium sp. M1E.F.Ca.ET.045.02.1.1	5
+Psychrobacter sp. P2G3	5
+Prevotella dentalis	5
+Amycolatopsis albispora	5
+Rummeliibacillus stabekisii	5
+Neisseria zoodegmatis	5
+Starkeya novella	5
+Petrocella atlantisensis	5
+Salinibacterium sp. dk2585	5
+Nonomuraea nitratireducens	5
+Mycolicibacterium rhodesiae	5
+Siansivirga zeaxanthinifaciens	5
+Burkholderia sp. KK1	5
+Pseudomonas caeni	5
+Flavobacterium kingsejongi	5
+Rahnella sp. ERMR1:05	5
+Rhodococcus sp. WB9	5
+Clostridium novyi	5
+Diplodia corticola	5
+Lysobacter gummosus	5
+Myxococcus stipitatus	5
+Bifidobacterium adolescentis	5
+Brenneria nigrifluens	5
+Sulfuritalea hydrogenivorans	5
+Brucella melitensis	5
+Halomonas meridiana	5
+Acinetobacter tandoii	5
+Tateyamaria omphalii	5
+Pseudomonas sp. S09G 359	5
+Mycobacterium leprae	5
+Aeromonas hydrophila	5
+Janibacter limosus	5
+Corynebacterium falsenii	5
+Martelella mediterranea	5
+Flavobacterium sp. MDT1-60	5
+Pseudomonas tolaasii	5
+Kribbella qitaiheensis	5
+Serpentinomonas raichei	5
+Edwardsiella hoshinae	5
+Rathayibacter sp. VKM Ac-2760	5
+Synchytrium taraxaci	5
+Amycolatopsis sp. YIM 10	5
+Pseudomonas lundensis	5
+Solibacillus silvestris	5
+Pseudomonas sp. CFSAN084952	5
+Hymenobacter sp. PAMC 26628	5
+Shigella flexneri	5
+Mycolicibacterium sediminis	5
+Enterococcus wangshanyuanii	5
+Pseudomonas brenneri	5
+Nocardioides humi	5
+Weizmannia coagulans	5
+Desulfomicrobium orale	5
+Arthrobacter alpinus	5
+Pseudomonas alkylphenolica	5
+Collimonas arenae	5
+Tsuneonella mangrovi	5
+Marinovum algicola	5
+Crenobacter cavernae	5
+Clostridium intestinale	5
+Mycolicibacterium duvalii	5
+Pseudomonas sp. BIOMIG1BAC	5
+Bordetella pseudohinzii	5
+Sulfurimicrobium lacus	5
+Mycobacterium simiae	5
+Cellulomonas sp. Y8	5
+Bradyrhizobium zhanjiangense	5
+Mucilaginibacter sp. PAMC 26640	5
+Microlunatus sagamiharensis	5
+Pseudomonas sp. MRSN12121	5
+Rhodobacteraceae bacterium QY30	5
+Sphaerisporangium sp. SANK 60911	5
+Streptomyces albus	5
+Leucobacter denitrificans	5
+Pseudomonas cremoricolorata	5
+Arthrobacter sp. MN05-02	5
+Ornithinimicrobium sp. H23M54	5
+Mesorhizobium loti	5
+Maioricimonas rarisocia	5
+Amycolatopsis mediterranei	5
+Legionella fallonii	5
+Acidovorax sp. HDW3	5
+Haliscomenobacter hydrossis	5
+Microbacterium amylolyticum	5
+Rouxiella badensis	5
+Rhodococcus sp. MTM3W5.2	5
+Streptomyces sp. 3214.6	5
+Afipia sp. GAS231	5
+Rubrobacter sp. SCSIO 52909	5
+Acinetobacter sp. C16S1	5
+Methylococcus capsulatus	5
+Acholeplasma brassicae	5
+Pseudomonas litoralis	5
+Mycobacterium florentinum	5
+Klebsiella oxytoca	5
+Alicyclobacillus acidocaldarius	5
+Yersinia kristensenii	5
+Corallococcus coralloides	5
+Plantibacter sp. M259	5
+Pseudomonas sp. MYb193	5
+Azorhizobium caulinodans	5
+Streptomyces sp. CLI2509	5
+Ensifer sojae	5
+Acinetobacter sp. Marseille-Q1620	5
+Fluviicola taffensis	5
+Nocardioides daphniae	4
+Bordetella genomosp. 8	4
+Leuconostoc carnosum	4
+Streptomyces venezuelae	4
+Aeromonas caviae	4
+Pseudomonas phage PS-1	4
+Rhizobium phage RR1-A	4
+Prauserella marina	4
+Victivallales bacterium CCUG 44730	4
+Rhizobium sp. IE4771	4
+Enterococcus thailandicus	4
+Thauera hydrothermalis	4
+Dinoroseobacter shibae	4
+Streptomyces sp. C8S0	4
+Lacticaseibacillus manihotivorans	4
+Pseudomonas syringae	4
+Mesorhizobium sp. M1B.F.Ca.ET.045.04.1.1	4
+Laribacter hongkongensis	4
+Natrialba magadii	4
+Riemerella anatipestifer	4
+Mammaliicoccus vitulinus	4
+Limnohabitans sp. 103DPR2	4
+Pseudomonas sp. R84	4
+Rhodothermus marinus	4
+Kribbella flavida	4
+Weeksella virosa	4
+Anaerocolumna sp. CBA3638	4
+Streptosporangium roseum	4
+Caballeronia sp. SBC2	4
+Roseburia hominis	4
+Fusarium phaseoli	4
+Castellaniella defragrans	4
+Hungatella hathewayi	4
+Pseudomonas sp. DR 5-09	4
+Pararhodospirillum photometricum	4
+Modestobacter marinus	4
+Azoarcus sp. CIB	4
+Pseudoxanthomonas suwonensis	4
+Arthrobacter sp. BP2	4
+Mesorhizobium sp. Pch-S	4
+Pseudomonas sp. R11-23-07	4
+Actinomadura sp. WMMB 499	4
+Paracoccus denitrificans	4
+Mycobacterium gordonae	4
+Streptococcus sp. oral taxon 431	4
+Olsenella umbonata	4
+Ralstonia mannitolilytica	4
+Torulaspora delbrueckii	4
+Arthrobacter sp. FB24	4
+Rhodobacter blasticus	4
+Acidipropionibacterium virtanenii	4
+Glutamicibacter creatinolyticus	4
+Dechloromonas sp. HYN0024	4
+Fusarium odoratissimum	4
+Orf virus	4
+Cordyceps fumosorosea	4
+Chryseobacterium piperi	4
+Agrobacterium sp. RAC06	4
+Gordonia rubripertincta	4
+Cellulomonas shaoxiangyii	4
+Mesorhizobium australicum	4
+Aspergillus terreus	4
+Thauera aromatica	4
+Clostridiaceae bacterium 14S0207	4
+Micromonospora terminaliae	4
+Rhizobiales bacterium NRL2	4
+Cellulosimicrobium sp. JZ28	4
+Acinetobacter sp. 10FS3-1	4
+Chitinophaga pinensis	4
+Pseudomonas sp. RU47	4
+Bordetella holmesii	4
+Pseudomonas sp. VLB120	4
+Yersinia enterocolitica	4
+Thauera humireducens	4
+Flavobacterium branchiophilum	4
+Flavobacterium commune	4
+Mycolicibacterium madagascariense	4
+Thermomonas carbonis	4
+Cupriavidus taiwanensis	4
+Alternaria arborescens	4
+Ruthenibacterium lactatiformans	4
+Pseudomonas taetrolens	4
+Azospirillum thermophilum	4
+Arthrobacter sp. PAMC25564	4
+Aureobasidium pullulans	4
+Pseudonocardia broussonetiae	4
+Burkholderia multivorans	4
+Legionella pneumophila	4
+Pseudomonas sp. LQ26	4
+Colletotrichum scovillei	4
+Morganella morganii	4
+Bordetella trematum	4
+Meiothermus silvanus	4
+Arenimonas daejeonensis	4
+Curtobacterium sp. BH-2-1-1	4
+Deinococcus proteolyticus	4
+Sphingomonas sp. HDW15B	4
+Turicibacter sp. H121	4
+Qipengyuania flava	4
+uncultured beta proteobacterium CBNPD1 BAC clone 578	4
+Cytophagales bacterium TFI 002	4
+Actinomyces viscosus	4
+Martelella endophytica	4
+Amycolatopsis sp. AA4	4
+Methylocella tundrae	4
+Collimonas pratensis	4
+Sorangium cellulosum	4
+uncultured Carboxydothermus sp.	4
+Bradyrhizobium lablabi	4
+Chitinophaga sp. XS-30	4
+Carnobacterium inhibens	4
+uncultured Thermus/Deinococcus group bacterium	4
+Pseudomonas vancouverensis	4
+Pseudomonas sp. TCU-HL1	4
+Burkholderia thailandensis	4
+Pseudomonas brassicacearum	4
+Luteibacter rhizovicinus	4
+Mycolicibacterium litorale	4
+Frankia alni	4
+Cupriavidus nantongensis	4
+Planococcus rifietoensis	4
+Talaromyces funiculosus	4
+Lysobacter oculi	4
+Rathayibacter sp. VKM Ac-2804	4
+Flavobacterium anhuiense	4
+Ciceribacter thiooxidans	4
+Dyadobacter fermentans	4
+Serinicoccus chungangensis	3
+Yersinia rohdei	3
+Acetobacter oryzoeni	3
+Blastochloris viridis	3
+Phreatobacter sp. NMCR1094	3
+Acremonium sp. 11665 DLW-2010	3
+Arthrobacter sp. PM3	3
+Mycobacteroides abscessus	3
+Mycetocola zhujimingii	3
+Rhizobium sp. NIBRBAC000502774	3
+Trichoderma atroviride	3
+Phycisphaeraceae bacterium	3
+Aminobacter aminovorans	3
+Microbacterium sp. SGAir0570	3
+Limosilactobacillus oris	3
+Nocardioides sp. S-1144	3
+Deinococcus maricopensis	3
+uncultured bacterium ctg7180000000737	3
+Marinomonas arctica	3
+Rhodobacteraceae bacterium SH-1	3
+Sphingomonas lacunae	3
+Stella humosa	3
+Bacillus sp. Y1	3
+Burkholderia sp. MSMB0856	3
+Idiomarina andamanensis	3
+Rhodothermaceae bacterium	3
+Microlunatus sp. KUDC0627	3
+Faecalibacterium prausnitzii	3
+Leclercia adecarboxylata	3
+Hymenobacter sedentarius	3
+Gemmatirosa kalamazoonesis	3
+Azospirillum brasilense	3
+Arthrobacter agilis	3
+Enterococcus casseliflavus	3
+Mycobacterium stomatepiae	3
+Fusarium asiaticum	3
+Leptosphaeria maculans	3
+Chryseobacterium sp. 7-3A	3
+Hypericibacter terrae	3
+Cupriavidus neocaledonicus	3
+Virgibacillus sp. Bac330	3
+Alienimonas californiensis	3
+Ferrovibrio terrae	3
+Pseudomonas sp. J380	3
+Rhodobacteraceae bacterium	3
+Limosilactobacillus vaginalis	3
+Clostridium beijerinckii	3
+Ancylobacter sp. TS-1	3
+Shigella dysenteriae	3
+Pseudomonas coronafaciens	3
+Anoxybacillus amylolyticus	3
+[Eubacterium] rectale	3
+Rhodococcus jostii	3
+Psychrobacter arenosus	3
+Xanthomonas hyacinthi	3
+Luteimonas sp. YGD11-2	3
+Microlunatus soli	3
+Gemmobacter sp. HYN0069	3
+Aeromonas rivipollensis	3
+Phialemoniopsis curvata	3
+Chryseobacterium sp. 3008163	3
+Rhizobium pseudoryzae	3
+Polaribacter sp. SA4-12	3
+Poseidonibacter lekithochrous	3
+Novosphingobium tardaugens	3
+Pontibacter russatus	3
+Cellulomonas sp. H30R-01	3
+Malassezia furfur	3
+Jeotgalibaca porci	3
+Frondihabitans sp. PAMC 28766	3
+Streptomyces glaucescens	3
+Actinoplanes sp. N902-109	3
+Mesorhizobium sp. M9A.F.Ca.ET.002.03.1.2	3
+Pseudomonas entomophila	3
+Thermus aquaticus	3
+Vibrio parahaemolyticus	3
+Chryseobacterium balustinum	3
+Stenotrophomonas sp. ZAC14A_NAIMI4_1	3
+Pedobacter roseus	3
+Nocardioides sp. JS614	3
+Dickeya fangzhongdai	3
+Chryseobacterium sp. G0201	3
+Alcanivorax sp. IO_7	3
+Companilactobacillus zhachilii	3
+Bathymodiolus thermophilus thioautotrophic gill symbiont	3
+Dyadobacter sp. 32	3
+Streptococcus thermophilus	3
+Corynebacterium nuruki	3
+Pseudomonas mediterranea	3
+Octadecabacter sp. SW4	3
+Rhodotorula mucilaginosa	3
+Chitinimonas arctica	3
+Terriglobus roseus	3
+Escherichia albertii	3
+Calothrix sp. PCC 7507	3
+Geobacillus sp. Y4.1MC1	3
+Gordonia insulae	3
+Staphylococcus saprophyticus	3
+Streptomyces parvulus	3
+Sinomonas sp. R1AF57	3
+Serinicoccus marinus	3
+Chryseolinea soli	3
+Microbacterium phage ValentiniPuff	3
+Thermoanaerobacter kivui	3
+Enterococcus cecorum	3
+Chryseobacterium lactis	3
+Acidovorax cattleyae	3
+Ensifer mexicanus	3
+Methylobacterium sp. 4-46	3
+Azospirillum thiophilum	3
+Dolosigranulum pigrum	3
+Mesorhizobium japonicum	3
+Dickeya dadantii	3
+Lysobacter sp. TY2-98	3
+Microvirga ossetica	3
+Pseudarthrobacter chlorophenolicus	3
+Thermus oshimai	3
+Aspergillus nidulans	3
+Methylosinus trichosporium	3
+Pseudomonas sp. SWI36	2
+Marinobacter sp. LQ44	2
+Fusobacterium nucleatum	2
+Gordonia sp. 135	2
+Nocardioides cynanchi	2
+Streptomonospora sp. M2	2
+Apiotrichum porosum	2
+Roseibacterium elongatum	2
+Pseudomonas oryzae	2
+Lysobacter sp. HDW10	2
+Pseudomonas sp. SWI7	2
+Shewanella sp. WE21	2
+Enterobacter roggenkampii	2
+Variovorax sp. PBL-H6	2
+Alcaligenes aquatilis	2
+Chryseobacterium carnis	2
+Paraburkholderia terricola	2
+Planomicrobium glaciei	2
+Hymenobacter sp. APR13	2
+Myroides odoratimimus	2
+Azospirillum oryzae	2
+Candidatus Frankia datiscae	2
+Chryseobacterium sp. POL2	2
+Sphingobium sp. YBL2	2
+Deinococcus radiodurans	2
+Acinetobacter sp. ACNIH2	2
+Pedococcus dokdonensis	2
+Thalassococcus sp. S3	2
+Lactobacillus amylovorus	2
+Meiothermus taiwanensis	2
+Gordonia sp. JH63	2
+Thioflavicoccus mobilis	2
+Pseudomonas sp. R5-89-07	2
+Stenotrophomonas indicatrix	2
+Nocardioides sp. HDW12B	2
+Kocuria flava	2
+Brucella intermedia	2
+Saprospiraceae bacterium	2
+Lysobacter soli	2
+Belliella baltica	2
+Geobacillus subterraneus	2
+Micromonospora chokoriensis	2
+Allokutzneria albata	2
+Pseudorhodoplanes sinuspersici	2
+Corynebacterium halotolerans	2
+uncultured bacterium BLR13	2
+Nocardia nova	2
+Burkholderia stagnalis	2
+Corynebacterium glyciniphilum	2
+Brevibacterium sp. WO024	2
+Thermomonospora curvata	2
+Micromonospora sagamiensis	2
+Streptomyces lavendulae	2
+Enterobacter sp. JUb54	2
+Clostridium baratii	2
+Pelagibacterium halotolerans	2
+Propionibacterium freudenreichii	2
+Pseudomonas knackmussii	2
+Caulobacteraceae bacterium OTSz_A_272	2
+Nocardioides sp. MC1495	2
+Herbaspirillum sp. meg3	2
+Variovorax sp. SRS16	2
+Peribacillus simplex	2
+Herbinix luporum	2
+Sporothrix schenckii	2
+Serinicoccus hydrothermalis	2
+Thiobacillus denitrificans	2
+Cronobacter muytjensii	2
+Massilia plicata	2
+Burkholderia cepacia	2
+Bacillus sp. X1(2014)	2
+Streptomyces sp. SirexAA-E	2
+Pseudomonas sp. S35	2
+Curtobacterium sp. Csp2	2
+Edwardsiella tarda	2
+Pseudomonas sp. CFA	2
+Gordonia phage Phendrix	1
+Shewanella sp. FDAARGOS_354	1
+Pseudomonas sp. TUM18999	1
+Rhizobium favelukesii	1
+Mameliella alba	1
+Corynebacterium humireducens	1
+Komagataeibacter xylinus	1
+Rathayibacter tritici	1
+Advenella mimigardefordensis	1
+Flavobacterium sediminis	1
+Sulfuricaulis limicola	1
+Nakamurella panacisegetis	1
+Hymenobacter sp. BT182	1
+Actinoplanes friuliensis	1
+Lacinutrix sp. 5H-3-7-4	1
+Aeromonas jandaei	1
+Pseudomonas sp. 14181154	1
+Methylobacterium terrae	1
+Mycolicibacterium fortuitum	1
+Nitrosococcus oceani	1
+Microbacterium endophyticum	1
+Streptomyces sp. HM190	1
+Kitasatospora sp. MMS16-BH015	1
+Chaetomium globosum	1
+Labrenzia sp. VG12	1
+Sphingobium chlorophenolicum	1
+Jejubacter calystegiae	1
+Sideroxydans sp. CL21	1
+Methyloversatilis universalis	1
+Roseovarius sp. TM1035	1
+Tessaracoccus aquimaris	1
+Defluviimonas alba	1
+Bradyrhizobium canariense	1
+Corynebacterium sp. ATCC 6931	1
+Corynebacterium xerosis	1
+Beggiatoa leptomitoformis	1
+Actinomyces sp. oral taxon 848	1
+Ensifer alkalisoli	1
+Mycobacterium saskatchewanense	1
+Flavobacterium nitrogenifigens	1
+Pseudolysobacter antarcticus	1
+Heterodermia casarettiana	1
+Glutamicibacter halophytocola	1
+Serratia nematodiphila	1
+Sphingobium herbicidovorans	1
+Pasteurellaceae bacterium Orientalotternb1	1
+Mycolicibacterium flavescens	1
+Trichophyton rubrum	1
+Streptomyces albidoflavus	1
+Fusarium pseudograminearum	1
+Nitratireductor sp. OM-1	1
+Nocardioides sp. dk884	1
+Mycetohabitans rhizoxinica	1
+Brevundimonas sp.	1
+Pseudomonas guangdongensis	1
+Citrobacter rodentium	1
+Hyphomicrobium denitrificans	1
+Paracoccus jeotgali	1
+Pseudomonas sp. R4-34-07	1
+Hyphomonas neptunium	1
+Chitinibacter sp. 2T18	1
+Bradyrhizobium sp. LCT2	1
+Mycolicibacterium smegmatis	1
+Aquaspirillum sp. LM1	1
+Aeromicrobium sp. MF47	1
+Rhodobacter sp. CZR27	1
+Pseudomonas sp. NS1(2017)	1
+Pseudomonas sp. TMW 2.1634	1
+Agrobacterium sp. H13-3	1
+Capnocytophaga leadbetteri	1
+Nocardioides sp. ZJ1313	1
+Geodermatophilus obscurus	1
+Burkholderia sp. CCGE1003	1
+Leucobacter sp. HDW9A	1
+Usitatibacter rugosus	1
+Erythrobacter sp. THAF29	1
+Neobacillus thermocopriae	1
+Pedobacter heparinus	1
+Tsuneonella amylolytica	1
+Flavobacteriaceae bacterium	1
+Paenarthrobacter aurescens	1
+Microlunatus phosphovorus	1
+Limosilactobacillus mucosae	1
+Tenacibaculum mesophilum	1
+Mycolicibacterium chubuense	1
+Rhodobacter capsulatus	1
+Pseudomonas sp. Y2	1
+Streptomyces griseoviridis	1
+Psychrobacter faecalis	1
+Desulfuromonas sp. DDH964	1
+Bordetella sp. N	1
+Streptomyces sp. W1SF4	1
+Selenomonas sp. oral taxon 126	1
+Trichoderma reesei	1
+Micromonospora siamensis	1
+Arthrobacter sp. YC-RL1	1
+Altererythrobacter sp. ZODW24	1
+Sphingomonas rhizophila	1
+Erwinia tracheiphila	1
+Pseudomonas sp. CC6-YY-74	1
+Lysobacter capsici	1
+Thermothielavioides terrestris	1
+Leisingera aquaemixtae	1
+Shigella sonnei	1
+Cytobacillus oceanisediminis	1
+Staphylococcus xylosus	1
+Gordonia phthalatica	1
+Chelatococcus sp. CO-6	1
+Pseudomonas arsenicoxydans	1
+Tamlana carrageenivorans	1
+Mesorhizobium amorphae	1
+Stappia sp. ES.058	1
+Mesorhizobium sp. M2A.F.Ca.ET.046.03.2.1	1
+Vibrio fluvialis	1
+Micromonospora sp. WMMA2032	1
+uncultured Acinetobacter sp.	1
+Rhodococcus sp. S2-17	1
+Pelosinus fermentans	1
+Candidatus Tenderia electrophaga	1
+Streptacidiphilus bronchialis	1
+Trichoderma gamsii	1
+Paraburkholderia sp. SOS3	1
+Stella sp. ATCC 35155	1
+Spiribacter roseus	1
+Bacillus sp. KH172YL63	1
+Exophiala xenobiotica	1
+Hoyosella subflava	1
+Microvirga sp. 17 mud 1-3	1
+Arthrobacter sp. PGP41	1
+Enterobacter sp. E20	1
+Gluconacetobacter diazotrophicus	1
+Corynebacterium phocae	1
+Streptomyces sp. Z022	1
+Serratia liquefaciens	1
+Salipiger profundus	1
+Burkholderia oklahomensis	1

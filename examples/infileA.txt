@@ -1,0 +1,55 @@
+Species	Reads
+HUGO_IC_seq	5946413
+Escherichia coli	5555
+Cutibacterium acnes	10
+Agrobacterium tumefaciens	6
+Stenotrophomonas maltophilia	5
+Brevundimonas naejangsanensis	5
+uncultured bacterium	4
+Acinetobacter sp. MYb10	3
+Bradyrhizobium sp. BTAi1	3
+Rhodococcus sp. B7740	3
+Stenotrophomonas rhizophila	2
+Rhodococcus fascians	2
+Enterococcus faecalis	2
+Klebsiella michiganensis	2
+Methylomonas clara	2
+Bradyrhizobium guangxiense	2
+Brevundimonas diminuta	2
+Acinetobacter johnsonii	2
+Sphingomonas koreensis	2
+Acinetobacter sp. WCHA45	1
+Acinetobacter lwoffii	1
+Deinococcus grandis	1
+Bradyrhizobium sp. CCBAU 53421	1
+Pseudomonas protegens	1
+Microterricola viridarii	1
+Corynebacterium aurimucosum	1
+Microbacterium sp. No. 7	1
+Listeria monocytogenes	1
+Novosphingobium aromaticivorans	1
+Luteitalea pratensis	1
+Caloramator sp. E03	1
+Aeromonas salmonicida	1
+Comamonas testosteroni	1
+Pseudomonas sp. FDAARGOS_380	1
+Shigella sonnei	1
+Sphingomonas melonis	1
+Sphingobium hydrophobicum	1
+Acinetobacter guillouiae	1
+Sphingomonas panacis	1
+Hydrogenophaga sp. RAC07	1
+Flavobacteriaceae bacterium 10Alg115	1
+Methylorubrum extorquens	1
+Phyllobacterium zundukense	1
+Moraxella osloensis	1
+Acidovorax sp. 1608163	1
+Acidovorax monticola	1
+Sphingomonas sp. AAP5	1
+Agromyces sp. HY052	1
+Serratia marcescens	1
+Escherichia virus EC1UPM	1
+Podosphaera xanthii	1
+Rhodococcus sp. YL-1	1
+Acinetobacter haemolyticus	1
+Achromobacter xylosoxidans	1
