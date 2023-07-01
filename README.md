@@ -54,7 +54,7 @@ user_specified_installation_path/bin/lts-analysis -a infileA -b infileB -o user_
 > 2. the "Species" column should be character strings recording microbes' names; No dupilicates was allowed. 
 > 3. the "Reads" column should be non-zero integers. 
 
->`infileB` is your input file, which describes the composition of your second microbial community, which is treated as background. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be formatted as `infileA`;
+>`infileB` is your input file, which describes the composition of your second microbial community and is used as background. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be formatted as `infileA`;
 
 >`user_specified_output_path` is a folder that will be created (if the user didn't create it already) to save your output file `infileA__infileB.spes`. The output file recorded community structure variation results of comparing `infileA` to `infileB`.
 
