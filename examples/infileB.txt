@@ -1,5 +1,5 @@
 Species	Reads
-HUGO_IC_seq	122
+HUGO_DNA_0154	122
 Xanthomonas campestris	9274
 Cutibacterium acnes	9243
 Stenotrophomonas maltophilia	8268
