@@ -1,9 +1,8 @@
-# LTS-analysis
+# KIISS algorithm
 
-## 0. About LTS-analysis
+## 0. About KIISS algorithm
 
-We introduce a new analysis based on local topological similarity (LTS): some components maintained their pair-ratios in two microbial communities, even if their relative abundance changes sharply. LTS analysis is tolerant to amount of input DNA, presence of contaminants and stochastic disturbance, requires no delicate parameter choice, simplifies data integration and interpretation, unravels pathology for both infectious and non-infectious diseases, and is compatible on both metagenomic and 16s rRNA datasets. 
-
+Metagenomic sequencing provides a hypothesis-free profile of biodiversity but is hindered by the kitome—background nucleic acids that obscure the true signal. Accurate interpretation of the data hinges on efficient decontamination, which has to harness a stable, kitome-intrinsic characteristic that is invariant to sample input variations, to ensure robust noise reduction. We discovered that the pairwise ratios of contaminants are stable despite variations in input, in contrast, the individual abundance of contaminant microbes is susceptible to input fluctuations. Based on this, we developed the KIISS algorithm (Kitome Isolation via Intra-sample Similar Subgroups). The KIISS algorithm not only prevents overtreatment by eliminating false positives but also detects overlooked true signals, as demonstrated by its ability to accurately differentiate between common contaminants and actual pathogens in blood and CSF specimens and to identify low-abundance impurity from the supposed-to-be-pure sample. In conclusion, by eliminating kitome, KIISS enhances the fidelity of hypothesis-free metagenomic data and enables straightforward data interpretation.
 
 ## 1. Installation
 
@@ -36,25 +35,25 @@ user_specified_installation_path/bin/lts-analysis -v
 
 #### Usage
 
-The following command is used to compare two microbial communities (infileA and infileB) and get the community structure variations.
+The following command is used to compare the test sample to the negative control (infileA and infileB) and get truth signal.
 
 ```
 user_specified_installation_path/bin/lts-analysis -a infileA -b infileB -o user_specified_output_path;
 ```
 
->`infileA` is your input file, which describes the composition of your first microbial community. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be strictly formatted as required: 
+>`infileA` is your input file, which describes the microbial composition of your test sample. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be strictly formatted as required: 
 > 1. two columns with "Species" and "Reads" as names, seperated by tab.
 > 2. the "Species" column should be character strings recording microbes' names; No dupilicates was allowed. 
 > 3. the "Reads" column should be non-zero integers. 
 
->`infileB` is your input file, which describes the composition of your second microbial community and is used as background. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be formatted as `infileA`;
+>`infileB` is your input file, which describes the microbial composition of your negative control. An example was shown in the [example](https://github.com/HuLong-BI/LTS-analysis/tree/master/examples) folder. This file should be formatted as `infileA`;
 
->`user_specified_output_path` is a folder that will be created (if the user didn't create it already) to save your output file `infileA__infileB.spes`. The output file recorded community structure variation results of comparing `infileA` to `infileB`.
+>`user_specified_output_path` is a folder that will be created (if the user didn't create it already) to save your output file `infileA__infileB.spes`. The output file recorded the genuine truth of comparing `infileA` to `infileB`.
 
 
 #### An example:
 
-Assuming we are at your working directory and we want to compare two microbial communities (i.e.,`infileA.txt` and `infileB.txt`), and store their community structure variation results (i.e., `infileA__infileB.spes`) to the subfolder of `outdir`, the command line would be:
+Assuming we are at your working directory and we want to compare the test sample to the negative control (i.e.,`infileA.txt` and `infileB.txt`), and to store the genuine truth of the test sample (i.e., `infileA__infileB.spes`) to the subfolder of `outdir`, the command line would be:
 ```
 user_specified_installation_path/bin/lts-analysis -a ./infileA.txt -b ./infileB.txt -o ./outdir/;
 ```
