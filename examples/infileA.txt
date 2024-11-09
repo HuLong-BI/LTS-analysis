@@ -1,5 +1,5 @@
 Species	Reads
-HUGO_IC_seq	5946413
+HUGO_DNA_0154	5946413
 Escherichia coli	5555
 Cutibacterium acnes	10
 Agrobacterium tumefaciens	6
